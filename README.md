@@ -23,3 +23,4 @@ backEnd para conexion con JSON
 
 docker-compose up -d
 
+El puerto por defecto para Docker compose y la api, esta en el puerto 7000, este se puede actualizar desde el archivo config.json dentro de la carpeta api
