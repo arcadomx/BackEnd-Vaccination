@@ -1,0 +1,13 @@
+
+2023-12-07 13:36:50/go/src/app/server/funcs/database/database.go: 47 | Error : dial tcp 127.0.0.1:5432: connect: connection refused
+2023-12-07 13:56:56/go/src/app/server/funcs/database/database.go: 49 | Error : pq: syntax error at or near "user"
+2023-12-07 13:59:08/go/src/app/server/funcs/database/database.go: 49 | Error : pq: syntax error at or near "user"
+2023-12-07 18:00:34/go/src/app/server/funcs/database/database.go: 131 | Error : pq: column "availableat" of relation "drug" does not exist
+2023-12-07 18:04:55/go/src/app/server/funcs/database/database.go: 94 | Error : pq: relation "drugs" does not exist
+2023-12-07 18:05:16/go/src/app/server/funcs/database/database.go: 94 | Error : pq: relation "drugs" does not exist
+2023-12-07 18:34:41/go/src/app/server/funcs/jsonWebToken/jsonWebToken.go: 46 | Error : tokenstring should not contain 'bearer '
+2023-12-07 18:38:32/go/src/app/server/funcs/jsonWebToken/jsonWebToken.go: 46 | Error : token contains an invalid number of segments
+2023-12-07 19:47:25/go/src/app/server/funcs/jsonWebToken/jsonWebToken.go: 46 | Error : token contains an invalid number of segments
+2023-12-07 21:12:22/go/src/app/server/funcs/jsonWebToken/jsonWebToken.go: 46 | Error : token contains an invalid number of segments
+2023-12-07 21:14:03/go/src/app/server/funcs/database/database.go: 217 | Error : sql: no rows in result set
+2023-12-07 21:25:37/go/src/app/server/funcs/handler.go: 340 | Error : EOF
